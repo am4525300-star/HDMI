@@ -3,7 +3,8 @@ trabajo de fundamentos de ingenieria en sotfware
 
 Bin2Dec
 Nivel: 1-Principiante
-
+______________________________________________________________________________________________________________
+DESCRIPCION DEL PROYECTO
 El binario es el sistema numérico en el que se basan todos los ordenadores digitales. Por lo tanto, es importante que los desarrolladores entiendan el binario, o base 2, matemáticas. El propósito de Bin2Dec es proporcionar práctica y Comprensión de cómo se hacen los cálculos binarios.
 
 Bin2Dec permite al usuario introducir cadenas de hasta 8 dígitos binarios, 0 y los 1, en cualquier secuencia y luego muestran su equivalente decimal.
