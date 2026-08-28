@@ -10,7 +10,7 @@ El binario es el sistema numérico en el que se basan todos los ordenadores digi
 Bin2Dec permite al usuario introducir cadenas de hasta 8 dígitos binarios, 0 y los 1, en cualquier secuencia y luego muestran su equivalente decimal.
 
 Este desafío requiere que el desarrollador que lo implemente siga estas Restricciones:
-
+__________________________________________________________________________________________________________________
 No se pueden usar arrays para contener los dígitos binarios introducidos por el usuario
 Determinar el equivalente decimal de un dígito binario particular en el la secuencia debe calcularse usando una única función matemática, para Ejemplo del logaritmo natural. Depende de ti decidir qué función para usar.
 Historias de usuario
